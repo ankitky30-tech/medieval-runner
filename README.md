@@ -2,7 +2,7 @@
 
 A medieval-themed endless runner game — playable in the browser.
 
-**[▶ Play Now](https://ankitky30-tech.github.io/medieval-runner)**
+**[▶ Play Now](https://ankitky30-tech.github.io/medieval-runner/)**
 
 ## How to Play
 
